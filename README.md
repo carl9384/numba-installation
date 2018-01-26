@@ -1,2 +1,2 @@
 
-Instructions for installing Anaconda3 and Numba.
+# Instructions for installing Anaconda3 and Numba.
